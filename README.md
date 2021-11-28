@@ -1,6 +1,6 @@
 ## Olá!! Eu me chamo Tiago Vianez, e seja muito bem vindo(a) ao meu perfil! :smiley: :wave:
 
-#### Um pouco de mim:
+### Um pouco de mim:
 
 - :man_student: Graduando em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - :briefcase: Hoje trabalho como Estagiário de Consultoria Contábil.
