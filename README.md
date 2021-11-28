@@ -5,7 +5,7 @@
 - :man_student: Graduando em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - 🔭 Hoje trabalho como Consultor Assistente Contábil.
 - 💻 Atualmente estou estudando tecnologias que envolvam o universo do **Big Data** e a **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop, AWS e outras stacks.**
-- :dart:  Meu objetivo é **migrar para a carreira de Engenheiro de Dados.**
+- :dart:  Meu objetivo é **migrar para a carreira de Engenharia de Dados.**
 
 ##
 
@@ -34,7 +34,6 @@
 
 ### :wrench: Ferramentas:
   <div style="display: inline_block"><br>  
-  <img align="center" alt="Tiago-Visual"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Tiago-GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">  
   <img align="center" alt="Tiago-Jupyter"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Tiago-Pycharm"30" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
