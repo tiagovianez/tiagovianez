@@ -3,7 +3,7 @@
 #### Um pouco de mim:
 
 - :man_student: Graduando em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
-- 🔭 Hoje trabalho como Estagiário de Consultoria Contábil.
+- :briefcase: Hoje trabalho como Estagiário de Consultoria Contábil.
 - 💻 Atualmente estou estudando tecnologias que envolvam o universo do **Big Data** e a **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop, AWS e outras stacks.**
 - :dart:  Meu objetivo é **migrar para a carreira de Engenharia de Dados.**
 
