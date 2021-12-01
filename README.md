@@ -1,4 +1,4 @@
-## Opaaa!!! Chegue mais, seja muito bem vindo(a) ao meu perfil! :smiley: :wave:
+## Opaaa, chegue mais!!! Seja muito bem vindo(a) ao meu perfil! :smiley: :wave:
 
 ### Um pouco de mim:
 
