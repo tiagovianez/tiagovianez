@@ -2,7 +2,8 @@
 
 ### Um pouco de mim:
 
-- :man_student: Graduando em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
+- :man_student: Graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
+- :man_student: Recém graduando em **Ciência da Computação pela University of the People**.
 - :briefcase: Hoje trabalho como Consultor Assistente I.
 - 💻 Atualmente estou estudando tecnologias que envolvam o universo do **Big Data** e a **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop, AWS e outras stacks.**
 - :dart:  Meu objetivo é **migrar para a carreira de Engenharia de Dados.**
