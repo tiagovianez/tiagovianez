@@ -4,7 +4,7 @@
 
 - :man_student: Graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - 💻 Atualmente estou estudando tecnologias que envolvam o universo do **Big Data** e a **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop, AWS e outras stacks.**
-- :dart:  Meu objetivo é **migrar para a carreira de Engenharia de Dados.**
+- :dart:  Meu objetivo é **iniciar uma novo desafio como Engenheiro de Dados Junior.**
 
 ##
 
