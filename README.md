@@ -2,10 +2,10 @@
 
 ### Um pouco de mim:
 
-- :technologist: Hoje trabalho como freelancer em Engenharia de Dados
+- :technologist: Hoje trabalho como freelancer em **Engenharia de Dados**
 - :man_student: Graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - 💻 Atualmente estou estudando tecnologias que envolvam o universo do **Big Data** e a **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop, AWS e outras stacks.**
-- :dart:  Meu objetivo é **iniciar uma novo desafio como Engenheiro de Dados Junior.**
+- :dart:  Meu foco é **iniciar uma novo desafio como Engenheiro de Dados Junior.**
 
 
 ##
