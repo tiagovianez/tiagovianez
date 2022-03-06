@@ -2,7 +2,6 @@
 
 ### Um pouco de mim:
 
-- :briefcase: Hoje trabalho como freelancer de **Engenharia de Dados.**
 - :man_student: Sou graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - :man_student: Iniciei a minha jornada no bacharelado em **Ciência da Computação pela University of the People**.
 - :dart: Atualmente estou estudando tecnologias que envolvam o universo da **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop e Cloud (AWS).**
