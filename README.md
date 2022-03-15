@@ -3,8 +3,8 @@
 ### Um pouco de mim:
 
 - :man_student: Sou graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
-- :briefcase:	Atuamente estou trabalhando como Engenheiro de Dados no instituto Health Lake.
-- :dart: Hoje estudo tecnologias que envolvam o universo da **Engenharia de Dados** como: **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop e Cloud (AWS).**
+- :briefcase:	Atuamente estou trabalhando como **Engenheiro de Dados** no **Instituto Health Lake**.
+- :dart: Tenho estudado as seguintes tecnologias **Python, PostgreSQL, MySQL, MongoDB, Docker, Spark, Hadoop e Cloud (AWS).**
 
 ##
 
