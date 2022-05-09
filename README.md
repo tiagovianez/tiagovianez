@@ -4,7 +4,7 @@
 
 - :man_student: Sou graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - :briefcase:	Atuamente estou trabalhando como **Engenheiro de Dados** no **Instituto Health Lake**.
-- :dart: Tenho estudado e aplicado as seguintes ferramentas: **Web Scrapping (Python), SQL, Docker, Airflow, PySpark, AWS (S3, EC2, Cloudformation, RDS, Redshift)** e iniciando **Kubernetes** e **Terraform.**
+- :dart: Tenho estudado e aplicado as seguintes ferramentas: **Python, Web Scraping, SQL, Docker, Airflow, PySpark, AWS (S3, EC2, Cloudformation, RDS, Redshift)** e iniciando **Kubernetes** e **Terraform.**
 
 ##
 
