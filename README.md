@@ -35,12 +35,19 @@
 ### :wrench: Ferramentas:
   <div style="display: inline_block"><br>  
   <img align="center" alt="Tiago-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
- <img align="center" alt="Tiago-Kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+ <img align="center" alt="Tiago-Kubernetes" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Tiago-Terraform"30" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Tiago-Airflow"30" height="50" width="60" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"">
 <img align="center" alt="Tiago-VCS" height="50" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Tiago-Linux" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="Tiago-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+</div>
+   
+##
+
+### :cloud: Cloud:
+  <div style="display: inline_block"><br>  
+  <img align="center" alt="Tiago-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+</div>
                                                                                                                                                  
 ##
 ### :iphone: Contato:  
