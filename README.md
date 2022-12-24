@@ -3,7 +3,7 @@
 ### Um pouco de mim:
 
 - :man_student: Sou graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
-- :briefcase:	Atuamente estou trabalhando como **Engenheiro de Dados Júnior** no **Serasa Experian**.
+- :briefcase:	Atuamente estou trabalhando como **Analista de Engenharia de Dados I** na **Serasa Experian**.
 - :dart: Tenho estudado e aplicado as seguintes ferramentas: **Python, Web Scraping, SQL, Docker, Airflow, PySpark, AWS (S3, EC2, CloudFormation, RDS, Redshift)** e iniciando **Kubernetes** e **Terraform.**
 
 ##
