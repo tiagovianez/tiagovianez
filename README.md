@@ -2,9 +2,9 @@
 
 ### Um pouco de mim:
 
-- :man_student: Sou graduando do último período em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
-- :briefcase:	Atuamente estou trabalhando como **Analista de Engenharia de Dados I** na **Serasa Experian**.
-- :dart: Tenho estudado e aplicado as seguintes ferramentas: **Python, Web Scraping, SQL, Docker, Airflow, PySpark, AWS (S3, EC2, CloudFormation, RDS, Redshift)** e iniciando **Kubernetes** e **Terraform.**
+- :man_student: Sou bacharel em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
+- :briefcase:	Trabalho como **Analista de Engenharia de Dados I** na **Serasa Experian**.
+- :dart: Tenho estudado e aplicado as seguintes ferramentas: **Python, Scala, Hadoop Ecossystem, HDFS, YARN, HIVE, Hbase, SQL Server, Airflow, PySpark, SparkSQL e AWS**
 
 ##
 
