@@ -4,7 +4,7 @@
 
 - :man_student: Sou bacharel em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
 - :briefcase:	Trabalho como **Analista de Engenharia de Dados I** na **Serasa Experian**.
-- :dart: Tenho estudado e aplicado as seguintes ferramentas no meu dia a dia: **Python, Scala, Hadoop, HDFS, YARN, HIVE, Hbase, SQL Server, Apache Airflow, PySpark, SparkSQL e AWS (EMR, EC2 and S3)**
+- :dart: Meu foco ultimamente tem sido em stacks de Data Pipeline, como: **Python, Scala, Hadoop, HDFS, YARN, HIVE, Hbase, SQL Server, Apache Airflow, PySpark, SparkSQL e AWS (EMR, EC2 and S3)**
 
 ##
 
