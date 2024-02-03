@@ -28,7 +28,6 @@
   <div style="display: inline_block"><br>  
   <img align="center" alt="Tiago-Postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Tiago-SqlServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Tiago-MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hbase/hbase-plain.svg">
 </div>
 
 ##
