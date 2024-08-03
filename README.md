@@ -1,10 +1,10 @@
-## Opaaa, chegue mais!!! Seja muito bem vindo(a) ao meu perfil! :smiley: :wave:
+## Hey everyone!!! Welcome to my profile!!! :smiley: :wave:
 
-### Um pouco de mim:
+### A little about myself:
 
-- :man_student: Sou bacharel em **Ciências Contábeis pela Universidade Federal da Bahia (UFBA)**.
-- :briefcase:	Trabalho como **Analista de Engenharia de Dados I** na **Serasa Experian**.
-- :dart: Meu foco ultimamente tem sido em stacks de Data Pipeline, como: **Python, Scala, Hadoop, HDFS, YARN, HIVE, Hbase, SQL Server, Apache Airflow, PySpark, SparkSQL e AWS (EMR, EC2 and S3)**
+- :man_student: I have a bachelor's degree in **Accounting Sciences from the Federal University of Bahia (UFBA)**.
+- :briefcase: I work as a **Data Engineer I** at **Serasa Experian**.
+- :dart: My focus lately has been on Data Pipeline stacks, such as: **Python, Scala, Hadoop, HDFS, YARN, HIVE, Hbase, SQL Server, Apache Airflow, PySpark, SparkSQL and AWS (EMR, EC2 and S3)**
 
 ##
 
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovianez&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  ### :mechanical_arm: Habilidades:
+  ### :mechanical_arm: Skills:
   <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
@@ -24,7 +24,7 @@
 ##
   
   
-  ### 🎲 Bancos de Dados:
+  ### 🎲 Databases:
   <div style="display: inline_block"><br>  
   <img align="center" alt="Tiago-Postgresql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Tiago-SqlServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
@@ -32,7 +32,7 @@
 
 ##
 
-### :wrench: Ferramentas:
+### :wrench: Frameworks:
   <div style="display: inline_block"><br>  
   <img align="center" alt="Tiago-Airflow" height="50" width="60" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4">
   <img align="center" alt="Tiago-VCS" height="50" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -49,7 +49,7 @@
 </div>
                                                                                                                                                  
 ##
-### :iphone: Contato:  
+### :iphone: Contact:  
                                                                                                                                                  
 <div>
   <a href="https://www.linkedin.com/in/tiagovianez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
