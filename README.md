@@ -4,7 +4,7 @@
 
 - :man_student: I have a bachelor's degree in **Accounting from the Federal University of Bahia (UFBA)**.
 - :briefcase: I work as a **Data Engineer I** at **Serasa Experian**.
-- :dart: My focus lately has been on Data Pipeline stacks, such as: **Python, Scala, Hadoop, HDFS, YARN, HIVE, Hbase, SQL Server, Apache Airflow, PySpark, SparkSQL and AWS (EMR, EC2 and S3)**
+- :dart: My focus lately has been on stacks, such as: **Python, Scala, Apache Airflow, SQL, Apache Spark, Databricks, DBT, Snowflake and AWS (EMR, EC2, Glue, Athena, Redshift and S3)**
 
 ##
 
