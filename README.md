@@ -2,9 +2,9 @@
 
 ### A little about myself:
 
-- :man_student: I have a bachelor's degree in **Accounting from the Federal University of Bahia (UFBA)**.
-- :briefcase: I work as a **Data Engineer I** at **Serasa Experian**.
+- :briefcase: I work as a **Data Engineer** at **Serasa Experian**.
 - :dart: My focus lately has been on stacks, such as: **Python, Scala, Apache Airflow, SQL, Apache Spark, Databricks, DBT, Snowflake and AWS (EMR, EC2, Glue, Athena, Redshift and S3)**
+- :man_student: I have a bachelor's degree in **Accounting from the Federal University of Bahia (UFBA)**.
 
 ##
 
