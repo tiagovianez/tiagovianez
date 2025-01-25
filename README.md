@@ -3,7 +3,7 @@
 ### A little about myself:
 
 - :briefcase: I work as a **Data Engineer**
-- :dart: My focus lately has been on stacks, such as: **Python, Scala, Apache Airflow, SQL, Apache Spark, Databricks, DBT, Snowflake and AWS (EMR, EC2, Glue, Athena, Redshift and S3)**
+- :dart: My focus lately has been on stacks, such as **Python, Scala, Airflow, SQL, Spark, Databricks, DBT, Snowflake, and AWS Data Stack (EMR, EC2, Glue, Athena, Lake Formation, Redshift, MSK, Kinesis Firehose, Kineses Data Stream, and S3)**
 - :man_student: I have a bachelor's degree in **Accounting from the Federal University of Bahia (UFBA)**.
 
 ##
