@@ -3,7 +3,7 @@
 ### A little about myself:
 
 - :briefcase: I work as a **Data Platform Engineer**
-- :dart: My focus lately has been on stacks, such as **Python, Scala, Airflow, SQL, Spark, DBT, Snowflake, and AWS Data Stack (EMR, EC2, Glue, Athena, Lambda, Step Functions, Lake Formation, Redshift and S3)**
+- :dart: My focus lately has been on stacks, such as **Python, Scala, Airflow, SQL, Spark, DBT, Snowflake, and AWS Data Stack (EMR, MSK, DynamoDB, Glue, Athena, Lambda, Step Functions, Lake Formation, Redshift, EC2, S3)**
 - :man_student: I have a bachelor's degree in **Accounting and Finance from the Federal University of Bahia (UFBA)**.
 
 ##
